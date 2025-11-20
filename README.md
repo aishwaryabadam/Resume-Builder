@@ -194,11 +194,3 @@ npm run build
 * Monitor usage & billing in Google Cloud.
 * Remove console logging of keys before committing or deploying.
 
----
-
-If you want, I can now:
-
-* ✨ Generate the complete backend repository files (ready-to-run), or
-* 🔧 Create a GitHub Actions workflow that deploys both frontend and backend automatically.
-
-Which would you prefer next?
