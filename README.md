@@ -193,4 +193,9 @@ npm run build
 * Add rate limiting to the backend to protect against misuse.
 * Monitor usage & billing in Google Cloud.
 * Remove console logging of keys before committing or deploying.
+#WEBSITE SCREENSHOTS
+<img width="1331" height="618" alt="Screenshot 2026-02-17 003813" src="https://github.com/user-attachments/assets/64629bf7-bf06-47d0-968a-517802dd2ed4" />
+<img width="1327" height="628" alt="Screenshot 2026-02-17 003825" src="https://github.com/user-attachments/assets/532ff8e7-033d-4dd9-9509-0d76b6fa0e31" />
+<img width="1327" height="630" alt="Screenshot 2026-02-17 003836" src="https://github.com/user-attachments/assets/25ccadf7-7ad1-49ce-9bd0-378108361cfb" />
+
 
